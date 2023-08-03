@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/StudentManagerment/StudentManagerment.iml" filepath="$PROJECT_DIR$/StudentManagerment/StudentManagerment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/datetest/datetest.iml" filepath="$PROJECT_DIR$/datetest/datetest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02-code/day02-code.iml" filepath="$PROJECT_DIR$/day02-code/day02-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-array/day05-array.iml" filepath="$PROJECT_DIR$/day05-array/day05-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day05-code.iml" filepath="$PROJECT_DIR$/day05-code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day06-FangFa/day06-FangFa.iml" filepath="$PROJECT_DIR$/day06-FangFa/day06-FangFa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day07-DuiXiang/day07-DuiXiang.iml" filepath="$PROJECT_DIR$/day07-DuiXiang/day07-DuiXiang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day09-lianXi/day09-lianXi.iml" filepath="$PROJECT_DIR$/day09-lianXi/day09-lianXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day10-String/day10-String.iml" filepath="$PROJECT_DIR$/day10-String/day10-String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day11-arrList/day11-arrList.iml" filepath="$PROJECT_DIR$/day11-arrList/day11-arrList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day12/day12.iml" filepath="$PROJECT_DIR$/day12/day12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-duotai/day13-duotai.iml" filepath="$PROJECT_DIR$/day13-duotai/day13-duotai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-abstractDemo/day14-abstractDemo.iml" filepath="$PROJECT_DIR$/day14-abstractDemo/day14-abstractDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-interfacedemo/day15-interfacedemo.iml" filepath="$PROJECT_DIR$/day15-interfacedemo/day15-interfacedemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16-game/day16-game.iml" filepath="$PROJECT_DIR$/day16-game/day16-game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudizhu1/doudizhu1.iml" filepath="$PROJECT_DIR$/doudizhu1/doudizhu1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudizhu1/doudizhu2.iml" filepath="$PROJECT_DIR$/doudizhu1/doudizhu2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudizhu3/doudizhu3.iml" filepath="$PROJECT_DIR$/doudizhu3/doudizhu3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/doudizhu4/doudizhu4.iml" filepath="$PROJECT_DIR$/doudizhu4/doudizhu4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fileTest/fileTest.iml" filepath="$PROJECT_DIR$/fileTest/fileTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jihe/jihe.iml" filepath="$PROJECT_DIR$/jihe/jihe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapJiHe/mapJiHe.iml" filepath="$PROJECT_DIR$/mapJiHe/mapJiHe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myStream/myStream.iml" filepath="$PROJECT_DIR$/myStream/myStream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myio/myio.iml" filepath="$PROJECT_DIR$/myio/myio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mythread/mythread.iml" filepath="$PROJECT_DIR$/mythread/mythread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/puzzleGame/puzzleGame.iml" filepath="$PROJECT_DIR$/puzzleGame/puzzleGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/setJiHe/setJiHe.iml" filepath="$PROJECT_DIR$/setJiHe/setJiHe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/suanfa/suanfa.iml" filepath="$PROJECT_DIR$/suanfa/suanfa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/systemtest/systemtest.iml" filepath="$PROJECT_DIR$/systemtest/systemtest.iml" />
+    </modules>
+  </component>
+</project>
